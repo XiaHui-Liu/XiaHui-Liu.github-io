@@ -1,0 +1,2 @@
+Why doesn't the motor rotate?
+Because the Raspberry Pi and the driver board do not share the same ground
